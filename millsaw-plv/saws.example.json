@@ -1,0 +1,12 @@
+{
+  "saws": [
+    {
+      "name": "ChopSaw1",
+      "host": "192.0.2.50",
+      "port": 2121,
+      "username": "millsaw",
+      "password": "",
+      "remote_dir": "/"
+    }
+  ]
+}
